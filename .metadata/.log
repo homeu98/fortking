@@ -278,3 +278,6 @@ java.lang.NoSuchMethodException: com.android.internal.widget.ActionBarView$HomeV
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.equinox.security 1 0 2014-06-24 16:25:25.229
+!MESSAGE New keyring password generated. 
